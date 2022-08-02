@@ -9,6 +9,8 @@ Decoding working memory during a delay period in spatial memory task
   1. Mean accuracy classifier score  
   2. Von mises curve fitted resultant, mu, standard deviation, peak confidence plots 
 
+New full pipeline is the main code file to start from. 
+
 Supplementary information:
 - This code does not include the data file.
   The data file was in .mat. 
